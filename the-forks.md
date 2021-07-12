@@ -38,4 +38,4 @@ Nothing | [The other way](https://www.merriam-webster.com/dictionary/heck)
 > — Charles Dickens
 
 ## Source Material
-Click here!
+[Click here!](docs/sources.md)
