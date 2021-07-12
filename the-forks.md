@@ -1,4 +1,6 @@
-# A-Tale-of-Two-Forks
+# A Tale of Two Forks
+
+[The Period](./the-forks.md#the-period-a-string) \| [The Seasons](./the-forks.md#the-seasons-a-list) \| [Us](./the-forks.md#us-a-table) \| [The Year](./the-forks.md#the-year-an-image) \| [The Countries](./the-forks.md#the-countries-another-table) \| [The Conclusion](./the-forks.md#the-conclusion-a-quote) \| [Sources](./source.md)
 
 ##  The Period: A String
 
@@ -36,6 +38,3 @@ Nothing | [The other way](https://www.merriam-webster.com/dictionary/heck)
 > Greatnesses, and myriads of small creatures—the creatures of this chronicle 
 > among the rest—along the roads that lay before them. 
 > — Charles Dickens
-
-## Source Material
-[Click here!](./source.md)
